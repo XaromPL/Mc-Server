@@ -1,6 +1,7 @@
 [![Purpur Server](https://img.shields.io/badge/Purpur-Server-blue?style=for-the-badge&logo=netlify&logoColor=white)](https://purpurmc.org/)
-[![Datapacks Included](https://img.shields.io/badge/Datapacks-Included-brightgreen?style=for-the-badge&logo=github&logoColor=white)](#datapacks)
-[![Plugins Support](https://img.shields.io/badge/Plugins-Supported-yellow?style=for-the-badge&logo=plug&logoColor=white)](#plugins)
+[![Plugins](https://img.shields.io/badge/Plugins-BLUE?style=for-the-badge&logo=plugin&logoColor=white)](#)
+[![Datapacks](https://img.shields.io/badge/Datapacks-00FF00?style=for-the-badge&logo=minecraft&logoColor=white)](#)
+
 
 # Mc-Server
 Configuration files for my Minecraft Purpur 1.21.10 server
