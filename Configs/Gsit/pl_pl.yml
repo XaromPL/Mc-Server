@@ -1,0 +1,48 @@
+Plugin:
+  plugin-enabled: '&fPlugin został &bwłączony.'
+  plugin-link: '&fPołączono z &b%Link%&f.'
+  plugin-update: '&fDostępna nowa wersja: &b%NewVersion%&f | Aktualna: &b%Version%&f | Pobierz: &b%Path%'
+  plugin-data: '&bNie udało się połączyć z bazą danych. Sprawdź konsolę serwera.'
+  plugin-version: '&bPlugin nie jest kompatybilny z wersją serwera &f%Version%&b.'
+  plugin-reload: '&fPlugin został &bprzeładowany.'
+  plugin-disabled: '&fPlugin został &bwyłączony.'
+  plugin-prefix: ''
+
+Messages:
+  command-permission-error: '&bNie masz uprawnień do użycia tej komendy.'
+  command-sender-error: '&bNie możesz użyć tej komendy.'
+  command-version-error: '&bNieprawidłowa wersja serwera (&f%Version%&b). Zaktualizuj serwer.'
+
+  command-gsit-toggle-on: '&fWłączono &bsiadanie.'
+  command-gsit-toggle-off: '&fWyłączono &bsiadanie.'
+  command-gsit-playertoggle-on: '&fWłączono &bsiadanie na graczach.'
+  command-gsit-playertoggle-off: '&fWyłączono &bsiadanie na graczach.'
+  command-gcrawl-toggle-on: '&fWłączono &bczołganie podwójnym kucnięciem.'
+  command-gcrawl-toggle-off: '&fWyłączono &bczołganie podwójnym kucnięciem.'
+
+  action-sit-now-error: '&bNie możesz teraz usiąść.'
+  action-sit-world-error: '&bNie można siadać w tym świecie.'
+  action-sit-location-error: '&bNie można tutaj siadać.'
+  action-sit-safe-error: '&bTo miejsce nie jest bezpieczne.'
+  action-sit-region-error: '&bNie możesz siadać w tym regionie.'
+  action-sit-kick-error: '&bKtoś już tutaj siedzi.'
+  action-sit-error: '&bWystąpił błąd — nie możesz tu usiąść.'
+  action-sit-info: '&fUżyj &b<lang:key.sneak> &faby wstać.'
+
+  action-playersit-info: '&fUżyj &b<lang:key.sneak> &faby wstać.'
+
+  action-pose-now-error: '&bNie możesz się teraz położyć.'
+  action-pose-world-error: '&bNie możesz się kłaść w tym świecie.'
+  action-pose-location-error: '&bNie możesz się tu położyć.'
+  action-pose-safe-error: '&bTo miejsce nie jest bezpieczne.'
+  action-pose-region-error: '&bNie możesz się kłaść w tym regionie.'
+  action-pose-kick-error: '&bKtoś już tu leży.'
+  action-pose-error: '&bWystąpił błąd — nie możesz się tu położyć.'
+  action-pose-info: '&fUżyj &b<lang:key.sneak> &faby wstać.'
+
+  action-crawl-now-error: '&bNie możesz się teraz czołgać.'
+  action-crawl-world-error: '&bNie możesz się czołgać w tym świecie.'
+  action-crawl-region-error: '&bNie możesz się czołgać w tym regionie.'
+  action-crawl-info: '&fUżyj &b<lang:key.sneak> &faby wstać.'
+
+  action-blocked-error: '&bNie możesz teraz użyć tej komendy.'

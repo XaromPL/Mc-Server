@@ -1,0 +1,63 @@
+# CUSTOMIZE MESSAGES FOR SLEEP-MOST
+# Prefix disabled
+prefix: ''
+
+user:
+  night-skipped-chat: '&fDzień dobry, &b%player%&f!'
+  storm-skipped-chat: '&fBurza minęła, &bpogoda się poprawia&f.'
+  players-left-night: '&fSpanie, aby pominąć noc &b[&f%sleeping%&b/&f%required%&b]'
+  players-left-storm: '&fSpanie, aby pominąć burzę &b[&f%sleeping%&b/&f%required%&b]'
+  sleep-prevented: '&bNie możesz spać w tym świecie.'
+  no-sleep-storm: '&bNie możesz spać podczas burzy.'
+  cannot-sleep-now: '&bNie możesz teraz spać.'
+  sleep-success: '&fZasnąłeś.'
+  no-longer-sleeping: '&bJuż nie śpisz.'
+  no-bed-location-set: '&bNie masz ustawionej lokalizacji łóżka.'
+  teleported-to-bed: '&fZostałeś teleportowany do swojego łóżka.'
+  sleep-command-disabled: '&bKomenda spania jest wyłączona.'
+  insomnia-not-sleepy: '&bNie czujesz się teraz senny.'
+  insomnia-feeling-sleepy: '&fZaczynasz czuć senność...'
+  kicked-player-from-bed: '&fWyrzuciłeś gracza &b%player% &fz jego łóżka.'
+  kicked-from-bed: '&bZostałeś wyrzucony z łóżka.'
+  kicking-not-allowed: '&bNie masz uprawnień, aby wyrzucić tego gracza z łóżka.'
+
+  night-skipped-title: '&fNoc pominięta'
+  night-skipped-subtitle: '&bMiłego poranka!'
+  storm-skipped-title: '&fBurza pominięta'
+  storm-skipped-subtitle: '&bPogoda znów jest spokojna.'
+
+  longer-night:
+    sleep-prevented: '&bTa noc jest dłuższa niż zwykle, jeszcze nie czujesz senności.'
+
+boss-bar:
+  title: '&fŚpiący gracze &b[&f%sleeping-count%&b/&f%sleeping-required-count%&b]'
+
+admin:
+  no-console-command: '&bTej komendy nie można wykonać z konsoli.'
+  no-permission-command: '&bNie masz uprawnień do tej komendy.'
+  unknown-command: '&bNieznana komenda.'
+  config-reloaded: '&fKonfiguracja została przeładowana.'
+  already-enabled-for-world: '&bSystem snu jest już włączony w świecie &f%world%&b.'
+  already-disabled-for-world: '&bSystem snu jest już wyłączony w świecie &f%world%&b.'
+  enabled-for-world: '&fSystem snu został włączony w świecie &b%world%&f.'
+  disabled-for-world: '&fSystem snu został wyłączony w świecie &b%world%&f.'
+  not-enabled-for-world: '&bSystem snu nie jest włączony w świecie &f%world%&b. Użyj &f/sm enable'
+  currently-disabled: '&bSystem snu jest aktualnie &fwyłączony &bw tym świecie. Użyj &f/sm enable'
+  one-player-sleep-set: '&fTryb snu jednego gracza został ustawiony.'
+  specify-player: '&bPodaj nazwę gracza.'
+  target-not-sleeping: '&bTen gracz nie śpi.'
+  target-not-online: '&bTen gracz jest offline.'
+  insomnia-already-enabled: '&bInsomnia jest już włączona w tym świecie.'
+  insomnia-enabled: '&fInsomnia została włączona.'
+  only-during-night-command: '&bTej komendy można użyć tylko w nocy.'
+  kick-out-bed: '&f&l[wyrzuć]'
+
+flag:
+  all-reset-success: '&fWszystkie flagi zostały zresetowane.'
+  set-in-world: '&fFlaga &b%flag% &fzostała ustawiona na &b%value%&f.'
+  reset-in-world: '&fFlaga &b%flag% &fzostała zresetowana do &b%default-value%&f.'
+  not-exist: '&bTa flaga nie istnieje.'
+
+clock:
+  title: '&f%time%'
+  subtitle: '&b>>>'
