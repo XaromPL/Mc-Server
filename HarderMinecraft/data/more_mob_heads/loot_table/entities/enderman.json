@@ -34,11 +34,11 @@
                 {
                     "condition": "minecraft:random_chance_with_enchanted_bonus",
                     "enchantment": "minecraft:looting",
-                    "unenchanted_chance": 0.0001,
+                    "unenchanted_chance": 0.00001,
                     "enchanted_chance": {
                         "type": "minecraft:linear",
-                        "base": 0.0001,
-                        "per_level_above_first": 0.0001
+                        "base": 0.00001,
+                        "per_level_above_first": 0.00001
                     }
                 }
             ]

@@ -1,0 +1,6 @@
+      bed:
+        explode: true
+        explode-on-villager-sleep: true
+        explosion-power: 5.0
+        explosion-fire: true
+        explosion-effect: BLOCK
