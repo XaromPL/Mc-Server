@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    "minecraft:bread",
+    "minecraft:wheat"
+  ],
+  "result": {
+    "id": "minecraft:bread",
+    "count": 1,
+    "components": {
+      "minecraft:item_model": "fentanylowce:bagietka",
+        "minecraft:custom_name": {
+        "text": "Bagiettka Czosnkowa",
+        "color": "light_purple",
+        "bold": true
+      }
+    }
+  }
+}

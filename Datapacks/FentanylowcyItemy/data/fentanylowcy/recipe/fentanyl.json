@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:potion", 
+    "minecraft:sugar",
+    "minecraft:sugar",
+    "minecraft:sugar",
+    "minecraft:short_grass"
+  ],
+  "result": {
+    "id": "minecraft:potion",
+    "count": 1,
+    "components": {
+      "minecraft:item_model": "fentanylowce:fentanyl",
+        "minecraft:custom_name": {
+        "text": "Fentanyl",
+        "color": "light_purple",
+        "bold": true
+      },
+      "minecraft:potion_contents": {
+        "custom_effects": [
+          {
+            "id": "minecraft:nausea",
+            "amplifier": 0,
+            "duration": 600
+          },
+          {
+            "id": "minecraft:poison",
+            "amplifier": 1,
+            "duration": 200
+          },
+          {
+            "id": "minecraft:slowness",
+            "amplifier": 2,
+            "duration": 400
+          }
+        ]
+      }
+    }
+  }
+}

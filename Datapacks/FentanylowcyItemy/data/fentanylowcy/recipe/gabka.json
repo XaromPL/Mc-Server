@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GBY",
+    "BWB",
+    "YBG"
+  ],
+  "key": {
+    "G": "minecraft:gold_block",
+    "Y": "minecraft:yellow_wool",
+    "B": "minecraft:blaze_rod",
+    "W": "minecraft:bucket"
+    
+  },
+  "result": {
+    "id": "minecraft:sponge",
+    "count": 1,
+    "components": {
+        "minecraft:custom_name": {
+        "text": "Gąbka",
+        "color": "light_purple",
+        "bold": true
+      }
+    }
+  }
+}
