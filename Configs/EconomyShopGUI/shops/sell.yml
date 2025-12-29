@@ -1,0 +1,136 @@
+pages:
+  page1:
+    title: "Podstawowe bloki"
+    items:
+
+      stone:
+        material: STONE
+        sell: 2
+
+      cobblestone:
+        material: COBBLESTONE
+        sell: 1
+
+      deepslate:
+        material: DEEPSLATE
+        sell: 2
+
+      dirt:
+        material: DIRT
+        sell: 1
+
+      grass_block:
+        material: GRASS_BLOCK
+        sell: 1
+
+      sand:
+        material: SAND
+        sell: 1
+
+      gravel:
+        material: GRAVEL
+        sell: 1
+
+      clay_ball:
+        material: CLAY_BALL
+        sell: 3
+
+      netherrack:
+        material: NETHERRACK
+        sell: 1
+
+      end_stone:
+        material: END_STONE
+        sell: 2
+
+      obsidian:
+        material: OBSIDIAN
+        sell: 20
+
+      oak_log:
+        material: OAK_LOG
+        sell: 3
+
+      spruce_log:
+        material: SPRUCE_LOG
+        sell: 3
+
+      birch_log:
+        material: BIRCH_LOG
+        sell: 3
+
+      jungle_log:
+        material: JUNGLE_LOG
+        sell: 3
+
+      acacia_log:
+        material: ACACIA_LOG
+        sell: 3
+
+      dark_oak_log:
+        material: DARK_OAK_LOG
+        sell: 3
+
+      oak_planks:
+        material: OAK_PLANKS
+        sell: 2
+
+      stick:
+        material: STICK
+        sell: 1
+
+      coal:
+        material: COAL
+        sell: 10
+
+      raw_iron:
+        material: RAW_IRON
+        sell: 15
+
+      raw_copper:
+        material: RAW_COPPER
+        sell: 10
+
+      raw_gold:
+        material: RAW_GOLD
+        sell: 25
+
+      iron_ingot:
+        material: IRON_INGOT
+        sell: 25
+
+      gold_ingot:
+        material: GOLD_INGOT
+        sell: 40
+
+      redstone:
+        material: REDSTONE
+        sell: 8
+
+      lapis:
+        material: LAPIS_LAZULI
+        sell: 10
+
+      quartz:
+        material: QUARTZ
+        sell: 12
+
+      diamond:
+        material: DIAMOND
+        sell: 200
+
+      emerald:
+        material: EMERALD
+        sell: 180
+
+      netherite_scrap:
+        material: NETHERITE_SCRAP
+        sell: 600
+
+      amethyst_shard:
+        material: AMETHYST_SHARD
+        sell: 15
+
+      glowstone_dust:
+        material: GLOWSTONE_DUST
+        sell: 10

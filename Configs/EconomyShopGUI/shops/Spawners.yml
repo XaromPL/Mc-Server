@@ -1,0 +1,45 @@
+pages:
+  page1:
+    title: "Spawnery zwierząt"
+    items:
+      '1':
+        material: SPAWNER
+        spawnertype: PIG
+        name: "Spawner świni"
+        buy: 45000
+        sell: -1
+        slot: 12
+
+      '2':
+        material: SPAWNER
+        spawnertype: COW
+        name: "Spawner krowy"
+        buy: 100000
+        sell: -1
+        slot: 13
+
+      '3':
+        material: SPAWNER
+        spawnertype: SHEEP
+        name: "Spawner owcy"
+        buy: 45000
+        sell: -1
+        slot: 14
+
+      '4':
+        material: SPAWNER
+        spawnertype: CHICKEN
+        name: "Spawner kurczaka"
+        buy: 15000
+        sell: -1
+        slot: 15
+      '5':
+        material: SPAWNER
+        spawnertype: MUSHROOM_COW
+        name: "Spawner grzybowej krowy"
+        buy: 125000
+        sell: -1
+        slot: 16
+      '6':
+        material: AIR
+        slot: 27

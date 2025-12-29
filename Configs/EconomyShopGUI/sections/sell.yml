@@ -1,0 +1,7 @@
+enable: true
+item:
+  material: AIR
+  displayname: sell
+slot: 1
+display-item: false
+hidden: true

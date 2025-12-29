@@ -1,0 +1,6 @@
+enable: true
+item:
+  material: NETHERITE_CHESTPLATE
+  displayname: '&bZbroje'
+slot: 22
+title: '&bZbroje'

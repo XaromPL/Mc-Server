@@ -1,0 +1,68 @@
+pages:
+  page1:
+    title: Fentanylowe zbroje
+    items:
+      '1':
+        material: NETHERITE_HELMET
+        displayname: '&b&lFentanylowa zbroja'
+        name: '&bFentanylowy hełm'
+        price: -1
+        lore:
+          - '&fTa zbroja została wykuta'
+          - '&fZ przeklętej stali'
+          - '&bOCHRONI CIE!'
+          - '&c&lSTRZEŻ JEJ'
+        enchantments:
+          - PROTECTION:5
+          - UNBREAKING:5
+          - MENDING
+        slot: 12
+
+      '2':
+        material: NETHERITE_CHESTPLATE
+        displayname: '&b&lFentanylowa zbroja'
+        name: '&bFentanylowy napierśnik'
+        price: -1
+        lore:
+          - '&fTa zbroja została wykuta'
+          - '&fZ przeklętej stali'
+          - '&bOCHRONI CIE!'
+          - '&c&lSTRZEŻ JEJ'
+        enchantments:
+          - PROTECTION:5
+          - UNBREAKING:5
+          - MENDING
+        slot: 13
+      '3':
+        material: NETHERITE_LEGGINGS
+        displayname: '&b&lFentanylowa zbroja'
+        name: '&bFentanylowe spodnie'
+        price: -1
+        lore:
+          - '&fTa zbroja została wykuta'
+          - '&fZ przeklętej stali'
+          - '&bOCHRONI CIE!'
+          - '&c&lSTRZEŻ JEJ'
+        enchantments:
+          - PROTECTION:5
+          - UNBREAKING:5
+          - MENDING
+        slot: 14
+      '4':
+        material: NETHERITE_BOOTS
+        displayname: '&b&lFentanylowa zbroja'
+        name: '&bFentanylowe buty'
+        price: -1
+        lore:
+          - '&fTa zbroja została wykuta'
+          - '&fZ przeklętej stali'
+          - '&bOCHRONI CIE!'
+          - '&c&lSTRZEŻ JEJ'
+        enchantments:
+          - PROTECTION:5
+          - UNBREAKING:5
+          - MENDING
+        slot: 15
+      '5':
+        material: AIR
+        slot: 27
