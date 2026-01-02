@@ -1,6 +1,6 @@
 pages:
   page1:
-    title: "Podstawowe bloki"
+    title: "Skup"
     items:
 
       stone:
@@ -37,7 +37,7 @@ pages:
 
       netherrack:
         material: NETHERRACK
-        sell: 1
+        sell: 0.5
 
       end_stone:
         material: END_STONE
@@ -49,27 +49,27 @@ pages:
 
       oak_log:
         material: OAK_LOG
-        sell: 3
+        sell: 2
 
       spruce_log:
         material: SPRUCE_LOG
-        sell: 3
+        sell: 2
 
       birch_log:
         material: BIRCH_LOG
-        sell: 3
+        sell: 2
 
       jungle_log:
         material: JUNGLE_LOG
-        sell: 3
+        sell: 2
 
       acacia_log:
         material: ACACIA_LOG
-        sell: 3
+        sell: 2
 
       dark_oak_log:
         material: DARK_OAK_LOG
-        sell: 3
+        sell: 2
 
       oak_planks:
         material: OAK_PLANKS
@@ -87,16 +87,20 @@ pages:
         material: RAW_IRON
         sell: 15
 
+      iron_ingot:
+        material: IRON_INGOT
+        sell: 25
+
       raw_copper:
         material: RAW_COPPER
         sell: 10
 
+      copper_ingot:
+        material: COPPER_INGOT
+        sell: 18
+
       raw_gold:
         material: RAW_GOLD
-        sell: 25
-
-      iron_ingot:
-        material: IRON_INGOT
         sell: 25
 
       gold_ingot:
@@ -134,3 +138,51 @@ pages:
       glowstone_dust:
         material: GLOWSTONE_DUST
         sell: 10
+
+      rotten_flesh:
+        material: ROTTEN_FLESH
+        sell: 3
+
+      bone:
+        material: BONE
+        sell: 6
+
+      string:
+        material: STRING
+        sell: 5
+
+      gunpowder:
+        material: GUNPOWDER
+        sell: 12
+
+      spider_eye:
+        material: SPIDER_EYE
+        sell: 8
+
+      ender_pearl:
+        material: ENDER_PEARL
+        sell: 35
+
+      blaze_rod:
+        material: BLAZE_ROD
+        sell: 80
+
+      slime_ball:
+        material: SLIME_BALL
+        sell: 30
+
+      phantom_membrane:
+        material: PHANTOM_MEMBRANE
+        sell: 60
+
+      nether_star:
+        material: NETHER_STAR
+        sell: 15000
+
+      music_disc:
+        material: MUSIC_DISC_13
+        sell: 2500
+
+      heads:
+        material: PLAYER_HEAD
+        sell: 500
