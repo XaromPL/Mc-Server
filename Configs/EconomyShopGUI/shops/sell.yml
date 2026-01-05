@@ -186,3 +186,120 @@ pages:
       heads:
         material: PLAYER_HEAD
         sell: 500
+  page2:
+    title: "Skup"
+    items:
+      music_disc_13:
+        material: MUSIC_DISC_13
+        sell: 2500
+
+      music_disc_cat:
+        material: MUSIC_DISC_CAT
+        sell: 2500
+
+      music_disc_blocks:
+        material: MUSIC_DISC_BLOCKS
+        sell: 2500
+
+      music_disc_chirp:
+        material: MUSIC_DISC_CHIRP
+        sell: 2500
+
+      music_disc_far:
+        material: MUSIC_DISC_FAR
+        sell: 2500
+
+      music_disc_mall:
+        material: MUSIC_DISC_MALL
+        sell: 2500
+
+      music_disc_mellohi:
+        material: MUSIC_DISC_MELLOHI
+        sell: 2500
+
+      music_disc_stal:
+        material: MUSIC_DISC_STAL
+        sell: 2500
+
+      music_disc_strad:
+        material: MUSIC_DISC_STRAD
+        sell: 2500
+
+      music_disc_ward:
+        material: MUSIC_DISC_WARD
+        sell: 2500
+
+      music_disc_11:
+        material: MUSIC_DISC_11
+        sell: 2500
+
+      music_disc_wait:
+        material: MUSIC_DISC_WAIT
+        sell: 2500
+
+      music_disc_pigstep:
+        material: MUSIC_DISC_PIGSTEP
+        sell: 2500
+
+      music_disc_otherside:
+        material: MUSIC_DISC_OTHERSIDE
+        sell: 2500
+
+      music_disc_5:
+        material: MUSIC_DISC_5
+        sell: 2500
+
+      music_disc_relic:
+        material: MUSIC_DISC_RELIC
+        sell: 2500
+      bamboo:
+        material: BAMBOO
+        sell: 3
+
+      sugar_cane:
+        material: SUGAR_CANE
+        sell: 5
+
+      carrot:
+        material: CARROT
+        sell: 5
+
+      potato:
+        material: POTATO
+        sell: 5
+
+      beetroot:
+        material: BEETROOT
+        sell: 5
+
+      wheat:
+        material: WHEAT
+        sell: 5
+
+      hay_block:
+        material: HAY_BLOCK
+        sell: 5
+
+      pumpkin:
+        material: PUMPKIN
+        sell: 20
+
+      melon:
+        material: MELON
+        sell: 20
+
+      wheat_seeds:
+        material: WHEAT_SEEDS
+        sell: 1
+
+      beetroot_seeds:
+        material: BEETROOT_SEEDS
+        sell: 1
+
+      pumpkin_seeds:
+        material: PUMPKIN_SEEDS
+        sell: 1
+
+      melon_seeds:
+        material: MELON_SEEDS
+        sell: 1
