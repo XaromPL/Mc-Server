@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "  S",
+    " I",
+    "R"
+  ],
+  "key": {
+    "S": [
+      "minecraft:dragon_breath"
+    ],
+    "I": [
+      "minecraft:string"
+    ],
+    "R": [
+      "minecraft:iron_nugget"
+    ]
+  },
+  "result": {
+    "id": "minecraft:name_tag",
+    "count": 1
+  }
+}
