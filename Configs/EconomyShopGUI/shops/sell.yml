@@ -1,305 +1,499 @@
 pages:
+  pages:
   page1:
-    title: "Skup"
+    title: "Skup - Bloki i surowce 1"
     items:
-
       stone:
         material: STONE
         sell: 2
-
       cobblestone:
         material: COBBLESTONE
         sell: 1
-
       deepslate:
         material: DEEPSLATE
         sell: 2
-
       dirt:
         material: DIRT
         sell: 1
-
       grass_block:
         material: GRASS_BLOCK
         sell: 1
-
       sand:
         material: SAND
         sell: 1
-
+      red_sand:
+        material: RED_SAND
+        sell: 2
       gravel:
         material: GRAVEL
         sell: 1
-
       clay_ball:
         material: CLAY_BALL
         sell: 3
-
       netherrack:
         material: NETHERRACK
         sell: 0.5
-
+      magma_block:
+        material: MAGMA_BLOCK
+        sell: 5
+      soul_sand:
+        material: SOUL_SAND
+        sell: 3
+      soul_soil:
+        material: SOUL_SOIL
+        sell: 3
       end_stone:
         material: END_STONE
         sell: 2
-
       obsidian:
         material: OBSIDIAN
         sell: 20
+      stone_bricks:
+        material: STONE_BRICKS
+        sell: 6
+      mossy_stone_bricks:
+        material: MOSSY_STONE_BRICKS
+        sell: 8
+      cracked_stone_bricks:
+        material: CRACKED_STONE_BRICKS
+        sell: 7
+      chiseled_stone_bricks:
+        material: CHISELED_STONE_BRICKS
+        sell: 10
+      cobbled_deepslate:
+        material: COBBLED_DEEPSLATE
+        sell: 4
+      polished_deepslate:
+        material: POLISHED_DEEPSLATE
+        sell: 8
+      deepslate_bricks:
+        material: DEEPSLATE_BRICKS
+        sell: 10
+      moss_block:
+        material: MOSS_BLOCK
+        sell: 5
+      red_bricks:
+        material: BRICKS
+        sell: 20
+      nether_bricks:
+        material: NETHER_BRICKS
+        sell: 8
+      chiseled_nether_bricks:
+        material: CHISELED_NETHER_BRICKS
+        sell: 12
+      quartz_block:
+        material: QUARTZ_BLOCK
+        sell: 10
+      chiseled_quartz_block:
+        material: CHISELED_QUARTZ_BLOCK
+        sell: 12
+      andesite:
+        material: ANDESITE
+        sell: 2
+      diorite:
+        material: DIORITE
+        sell: 2
+      granite:
+        material: GRANITE
+        sell: 2
+      blackstone:
+        material: BLACKSTONE
+        sell: 3
+      sandstone:
+        material: SANDSTONE
+        sell: 3
+      red_sandstone:
+        material: RED_SANDSTONE
+        sell: 3
+      terracotta:
+        material: TERRACOTTA
+        sell: 4
+      tuff:
+        material: TUFF
+        sell: 2
+      crimson_nylium:
+        material: CRIMSON_NYLIUM
+        sell: 2
+      bone_block:
+        material: BONE_BLOCK
+        sell: 5
+      basalt:
+        material: BASALT
+        sell: 2
+      polished_basalt:
+        material: POLISHED_BASALT
+        sell: 5
+      dripstone_block:
+        material: DRIPSTONE_BLOCK
+        sell: 6
+      pointed_dripstone:
+        material: POINTED_DRIPSTONE
+        sell: 4
 
+  page2:
+    title: "Skup - Bloki i surowce 2"
+    items:
+      white_concrete:
+        material: WHITE_CONCRETE
+        sell: 10
+      orange_concrete:
+        material: ORANGE_CONCRETE
+        sell: 10
+      magenta_concrete:
+        material: MAGENTA_CONCRETE
+        sell: 10
+      light_blue_concrete:
+        material: LIGHT_BLUE_CONCRETE
+        sell: 10
+      yellow_concrete:
+        material: YELLOW_CONCRETE
+        sell: 10
+      lime_concrete:
+        material: LIME_CONCRETE
+        sell: 10
+      pink_concrete:
+        material: PINK_CONCRETE
+        sell: 10
+      gray_concrete:
+        material: GRAY_CONCRETE
+        sell: 10
+      light_gray_concrete:
+        material: LIGHT_GRAY_CONCRETE
+        sell: 10
+      cyan_concrete:
+        material: CYAN_CONCRETE
+        sell: 10
+      purple_concrete:
+        material: PURPLE_CONCRETE
+        sell: 10
+      blue_concrete:
+        material: BLUE_CONCRETE
+        sell: 10
+      brown_concrete:
+        material: BROWN_CONCRETE
+        sell: 10
+      green_concrete:
+        material: GREEN_CONCRETE
+        sell: 10
+      red_concrete:
+        material: RED_CONCRETE
+        sell: 10
+      black_concrete:
+        material: BLACK_CONCRETE
+        sell: 10
+      white_wool:
+        material: WHITE_WOOL
+        sell: 5
+      orange_wool:
+        material: ORANGE_WOOL
+        sell: 5
+      magenta_wool:
+        material: MAGENTA_WOOL
+        sell: 5
+      light_blue_wool:
+        material: LIGHT_BLUE_WOOL
+        sell: 5
+      yellow_wool:
+        material: YELLOW_WOOL
+        sell: 5
+      lime_wool:
+        material: LIME_WOOL
+        sell: 5
+      pink_wool:
+        material: PINK_WOOL
+        sell: 5
+      gray_wool:
+        material: GRAY_WOOL
+        sell: 5
+      light_gray_wool:
+        material: LIGHT_GRAY_WOOL
+        sell: 5
+      cyan_wool:
+        material: CYAN_WOOL
+        sell: 5
+      purple_wool:
+        material: PURPLE_WOOL
+        sell: 5
+      blue_wool:
+        material: BLUE_WOOL
+        sell: 5
+      brown_wool:
+        material: BROWN_WOOL
+        sell: 5
+      green_wool:
+        material: GREEN_WOOL
+        sell: 5
+      red_wool:
+        material: RED_WOOL
+        sell: 5
+      black_wool:
+        material: BLACK_WOOL
+        sell: 5
+
+    page3:
+    title: "Skup - Drewno"
+    items:
       oak_log:
         material: OAK_LOG
         sell: 2
-
       spruce_log:
         material: SPRUCE_LOG
         sell: 2
-
       birch_log:
         material: BIRCH_LOG
         sell: 2
-
       jungle_log:
         material: JUNGLE_LOG
         sell: 2
-
       acacia_log:
         material: ACACIA_LOG
         sell: 2
-
       dark_oak_log:
         material: DARK_OAK_LOG
         sell: 2
-
+      mangrove_log:
+        material: MANGROVE_LOG
+        sell: 2
+      cherry_log:
+        material: CHERRY_LOG
+        sell: 2
+      bamboo_log:
+        material: BAMBOO_BLOCK
+        sell: 5
+      crimson_stem:
+        material: CRIMSON_STEM
+        sell: 2
+      warped_stem:
+        material: WARPED_STEM
+        sell: 2
       oak_planks:
         material: OAK_PLANKS
-        sell: 2
-
+        sell: 1
+      spruce_planks:
+        material: SPRUCE_PLANKS
+        sell: 1
+      birch_planks:
+        material: BIRCH_PLANKS
+        sell: 1
+      jungle_planks:
+        material: JUNGLE_PLANKS
+        sell: 1
+      acacia_planks:
+        material: ACACIA_PLANKS
+        sell: 1
+      dark_oak_planks:
+        material: DARK_OAK_PLANKS
+        sell: 1
+      mangrove_planks:
+        material: MANGROVE_PLANKS
+        sell: 1
+      cherry_planks:
+        material: CHERRY_PLANKS
+        sell: 1
+      crimson_planks:
+        material: CRIMSON_PLANKS
+        sell: 1
+      warped_planks:
+        material: WARPED_PLANKS
+        sell: 1
       stick:
         material: STICK
         sell: 1
+      crafting_table:
+        material: CRAFTING_TABLE
+        sell: 5
+      loom:
+        material: LOOM
+        sell: 8
+      smithing_table:
+        material: SMITHING_TABLE
+        sell: 10
+      fletching_table:
+        material: FLETCHING_TABLE
+        sell: 8
+      lectern:
+        material: LECTERN
+        sell: 12
+      barrel:
+        material: BARREL
+        sell: 10
+      chest:
+        material: CHEST
+        sell: 15
 
+  page4:
+    title: "Skup - Rudy i minerały"
+    items:
       coal:
         material: COAL
         sell: 10
-
       raw_iron:
         material: RAW_IRON
         sell: 15
-
       iron_ingot:
         material: IRON_INGOT
         sell: 25
-
       raw_copper:
         material: RAW_COPPER
         sell: 10
-
       copper_ingot:
         material: COPPER_INGOT
         sell: 18
-
       raw_gold:
         material: RAW_GOLD
         sell: 25
-
       gold_ingot:
         material: GOLD_INGOT
         sell: 40
-
       redstone:
         material: REDSTONE
         sell: 8
-
       lapis:
         material: LAPIS_LAZULI
         sell: 10
-
       quartz:
         material: QUARTZ
         sell: 12
-
       diamond:
         material: DIAMOND
         sell: 200
-
       emerald:
         material: EMERALD
         sell: 180
-
       netherite_scrap:
         material: NETHERITE_SCRAP
         sell: 600
-
       amethyst_shard:
         material: AMETHYST_SHARD
         sell: 15
-
       glowstone_dust:
         material: GLOWSTONE_DUST
         sell: 10
 
+  page5:
+    title: "Skup - Mob drops i farmy"
+    items:
       rotten_flesh:
         material: ROTTEN_FLESH
         sell: 3
-
       bone:
         material: BONE
         sell: 6
-
       string:
         material: STRING
         sell: 5
-
       gunpowder:
         material: GUNPOWDER
         sell: 12
-
       spider_eye:
         material: SPIDER_EYE
         sell: 8
-
       ender_pearl:
         material: ENDER_PEARL
-        sell: 35
-
+        sell: 10
       blaze_rod:
         material: BLAZE_ROD
         sell: 80
-
       slime_ball:
         material: SLIME_BALL
         sell: 30
-
       phantom_membrane:
         material: PHANTOM_MEMBRANE
-        sell: 60
-
+        sell: 120
       nether_star:
         material: NETHER_STAR
-        sell: 15000
+        sell: 30000
+      bamboo:
+        material: BAMBOO
+        sell: 3
+      sugar_cane:
+        material: SUGAR_CANE
+        sell: 5
+      carrot:
+        material: CARROT
+        sell: 5
+      potato:
+        material: POTATO
+        sell: 5
+      beetroot:
+        material: BEETROOT
+        sell: 5
+      wheat:
+        material: WHEAT
+        sell: 5
+      hay_block:
+        material: HAY_BLOCK
+        sell: 50
+      pumpkin:
+        material: PUMPKIN
+        sell: 20
+      melon:
+        material: MELON
+        sell: 20
+      wheat_seeds:
+        material: WHEAT_SEEDS
+        sell: 1
+      beetroot_seeds:
+        material: BEETROOT_SEEDS
+        sell: 1
+      pumpkin_seeds:
+        material: PUMPKIN_SEEDS
+        sell: 1
+      melon_seeds:
+        material: MELON_SEEDS
+        sell: 1
+      experience_bottle:
+        material: EXPERIENCE_BOTTLE
+        sell: 50
 
-      music_disc:
-        material: MUSIC_DISC_13
-        sell: 2500
-
-      heads:
-        material: PLAYER_HEAD
-        sell: 500
-  page2:
-    title: "Skup"
+  page6:
+    title: "Skup - Płyty muzyczne"
     items:
       music_disc_13:
         material: MUSIC_DISC_13
         sell: 2500
-
       music_disc_cat:
         material: MUSIC_DISC_CAT
         sell: 2500
-
       music_disc_blocks:
         material: MUSIC_DISC_BLOCKS
         sell: 2500
-
       music_disc_chirp:
         material: MUSIC_DISC_CHIRP
         sell: 2500
-
       music_disc_far:
         material: MUSIC_DISC_FAR
         sell: 2500
-
       music_disc_mall:
         material: MUSIC_DISC_MALL
         sell: 2500
-
       music_disc_mellohi:
         material: MUSIC_DISC_MELLOHI
         sell: 2500
-
       music_disc_stal:
         material: MUSIC_DISC_STAL
         sell: 2500
-
       music_disc_strad:
         material: MUSIC_DISC_STRAD
         sell: 2500
-
       music_disc_ward:
         material: MUSIC_DISC_WARD
         sell: 2500
-
       music_disc_11:
         material: MUSIC_DISC_11
         sell: 2500
-
       music_disc_wait:
         material: MUSIC_DISC_WAIT
         sell: 2500
-
       music_disc_pigstep:
         material: MUSIC_DISC_PIGSTEP
         sell: 2500
-
       music_disc_otherside:
         material: MUSIC_DISC_OTHERSIDE
         sell: 2500
-
       music_disc_5:
         material: MUSIC_DISC_5
         sell: 2500
-
       music_disc_relic:
         material: MUSIC_DISC_RELIC
         sell: 2500
-      bamboo:
-        material: BAMBOO
-        sell: 3
-
-      sugar_cane:
-        material: SUGAR_CANE
-        sell: 5
-
-      carrot:
-        material: CARROT
-        sell: 5
-
-      potato:
-        material: POTATO
-        sell: 5
-
-      beetroot:
-        material: BEETROOT
-        sell: 5
-
-      wheat:
-        material: WHEAT
-        sell: 5
-
-      hay_block:
-        material: HAY_BLOCK
-        sell: 5
-
-      pumpkin:
-        material: PUMPKIN
-        sell: 20
-
-      melon:
-        material: MELON
-        sell: 20
-
-      wheat_seeds:
-        material: WHEAT_SEEDS
-        sell: 1
-
-      beetroot_seeds:
-        material: BEETROOT_SEEDS
-        sell: 1
-
-      pumpkin_seeds:
-        material: PUMPKIN_SEEDS
-        sell: 1
-
-      melon_seeds:
-        material: MELON_SEEDS
-        sell: 1
